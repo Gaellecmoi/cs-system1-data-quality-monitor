@@ -90,9 +90,9 @@ python monitor.py high      # Anomalie critique (>-45%)
 
 Projet portfolio démontrant l'automatisation des opérations Customer Success pour scale-ups B2B SaaS (Marketing/Commerce Tech).
 
-**Auteur :** [Ton nom]  
-**LinkedIn :** [Lien]  
-**Portfolio :** [Lien Notion]
+**Auteur :** Gaëlle Chevrier 
+**LinkedIn :** [LinkedIn](https://www.linkedin.com/in/gchevrier/)  
+**Portfolio :** [Portfolio Notion](https://www.notion.so/Portfolio-Ga-lle-Chevrier-2a9b25e936d580d39c47f3a21b230615?source=copy_link)
 
 ---
 
