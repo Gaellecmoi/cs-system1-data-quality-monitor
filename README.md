@@ -82,7 +82,7 @@ python monitor.py high      # Anomalie critique (>-45%)
 
 ## 📹 Démo
 
-[Lien vidéo à ajouter]
+[▶️ Voir la démo (3 min)](https://www.loom.com/share/0c65f48ccebf4cb08c744e9962259489)
 
 ---
 
